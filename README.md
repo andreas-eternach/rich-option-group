@@ -5,7 +5,7 @@ It is an extended option-group, that allows to display tooltips for option group
 
 ## Online demo
 
-Currently not available.
+Not yet available.
 
 ## Download release
 
